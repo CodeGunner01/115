@@ -1,0 +1,27 @@
+C:\Users\01\Desktop\pack pro1 1er parcial\BASE\Examensb\bin\Debug\Examensb.exe.config
+C:\Users\01\Desktop\pack pro1 1er parcial\BASE\Examensb\bin\Debug\Examensb.exe
+C:\Users\01\Desktop\pack pro1 1er parcial\BASE\Examensb\bin\Debug\Examensb.pdb
+C:\Users\01\Desktop\pack pro1 1er parcial\BASE\Examensb\obj\Debug\Examensb.csprojResolveAssemblyReference.cache
+C:\Users\01\Desktop\pack pro1 1er parcial\BASE\Examensb\obj\Debug\Examensb.Form1.resources
+C:\Users\01\Desktop\pack pro1 1er parcial\BASE\Examensb\obj\Debug\Examensb.Properties.Resources.resources
+C:\Users\01\Desktop\pack pro1 1er parcial\BASE\Examensb\obj\Debug\Examensb.csproj.GenerateResource.Cache
+C:\Users\01\Desktop\pack pro1 1er parcial\BASE\Examensb\obj\Debug\Examensb.exe
+C:\Users\01\Desktop\pack pro1 1er parcial\BASE\Examensb\obj\Debug\Examensb.pdb
+F:\G - MATERIAS ONLINE\12 SEMESTRE 1 2024\5 OYENTE\5 PROGRAMACION I SB MOLLO (ACTIVO)\09 EXAMENES\1ER PARCIAL\SB\BS124-main\Examensb\bin\Debug\Examensb.exe.config
+F:\G - MATERIAS ONLINE\12 SEMESTRE 1 2024\5 OYENTE\5 PROGRAMACION I SB MOLLO (ACTIVO)\09 EXAMENES\1ER PARCIAL\SB\BS124-main\Examensb\bin\Debug\Examensb.exe
+F:\G - MATERIAS ONLINE\12 SEMESTRE 1 2024\5 OYENTE\5 PROGRAMACION I SB MOLLO (ACTIVO)\09 EXAMENES\1ER PARCIAL\SB\BS124-main\Examensb\bin\Debug\Examensb.pdb
+F:\G - MATERIAS ONLINE\12 SEMESTRE 1 2024\5 OYENTE\5 PROGRAMACION I SB MOLLO (ACTIVO)\09 EXAMENES\1ER PARCIAL\SB\BS124-main\Examensb\obj\Debug\Examensb.csprojResolveAssemblyReference.cache
+F:\G - MATERIAS ONLINE\12 SEMESTRE 1 2024\5 OYENTE\5 PROGRAMACION I SB MOLLO (ACTIVO)\09 EXAMENES\1ER PARCIAL\SB\BS124-main\Examensb\obj\Debug\Examensb.Form1.resources
+F:\G - MATERIAS ONLINE\12 SEMESTRE 1 2024\5 OYENTE\5 PROGRAMACION I SB MOLLO (ACTIVO)\09 EXAMENES\1ER PARCIAL\SB\BS124-main\Examensb\obj\Debug\Examensb.Properties.Resources.resources
+F:\G - MATERIAS ONLINE\12 SEMESTRE 1 2024\5 OYENTE\5 PROGRAMACION I SB MOLLO (ACTIVO)\09 EXAMENES\1ER PARCIAL\SB\BS124-main\Examensb\obj\Debug\Examensb.csproj.GenerateResource.Cache
+F:\G - MATERIAS ONLINE\12 SEMESTRE 1 2024\5 OYENTE\5 PROGRAMACION I SB MOLLO (ACTIVO)\09 EXAMENES\1ER PARCIAL\SB\BS124-main\Examensb\obj\Debug\Examensb.exe
+F:\G - MATERIAS ONLINE\12 SEMESTRE 1 2024\5 OYENTE\5 PROGRAMACION I SB MOLLO (ACTIVO)\09 EXAMENES\1ER PARCIAL\SB\BS124-main\Examensb\obj\Debug\Examensb.pdb
+C:\Users\PC\Desktop\MEGA PACK EX PRO1\1ER PARCIAL\2 2024\SI\REPECHALE224\BS124-main\Examensb\obj\Debug\Examensb.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\MEGA PACK EX PRO1\1ER PARCIAL\2 2024\SI\REPECHALE224\BS124-main\Examensb\obj\Debug\Examensb.Form1.resources
+C:\Users\PC\Desktop\MEGA PACK EX PRO1\1ER PARCIAL\2 2024\SI\REPECHALE224\BS124-main\Examensb\obj\Debug\Examensb.Properties.Resources.resources
+C:\Users\PC\Desktop\MEGA PACK EX PRO1\1ER PARCIAL\2 2024\SI\REPECHALE224\BS124-main\Examensb\obj\Debug\Examensb.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\MEGA PACK EX PRO1\1ER PARCIAL\2 2024\SI\REPECHALE224\BS124-main\Examensb\obj\Debug\Examensb.exe
+C:\Users\PC\Desktop\MEGA PACK EX PRO1\1ER PARCIAL\2 2024\SI\REPECHALE224\BS124-main\Examensb\obj\Debug\Examensb.pdb
+C:\Users\PC\Desktop\MEGA PACK EX PRO1\1ER PARCIAL\2 2024\SI\REPECHALE224\BS124-main\Examensb\bin\Debug\Examensb.exe.config
+C:\Users\PC\Desktop\MEGA PACK EX PRO1\1ER PARCIAL\2 2024\SI\REPECHALE224\BS124-main\Examensb\bin\Debug\Examensb.exe
+C:\Users\PC\Desktop\MEGA PACK EX PRO1\1ER PARCIAL\2 2024\SI\REPECHALE224\BS124-main\Examensb\bin\Debug\Examensb.pdb
